@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt6" />
 </p>
 
 **Databases, DevOps & Linux**
@@ -40,6 +41,7 @@
 * **Applied AI & Automation:** Integración de modelos de IA locales (Ollama, DeepSeek-R1, Qwen) para automatizar procesos y analizar datos en aplicaciones.
 * **Complex Pipelines:** Desarrollo de flujos de trabajo automatizados como PipelineBooks, utilizando Python, Playwright y herramientas de control de calidad.
 * **Full-Stack Projects:** Creación de soluciones end-to-end integrando backends sólidos con interfaces frontend responsivas en React.
+* **Desktop UI & Experimentation:** Explorando actualmente el diseño y desarrollo de interfaces gráficas de usuario nativas utilizando Qt6.
 
 ## GitHub Stats
 
